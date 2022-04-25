@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkForm", "ParkForm\ParkForm.csproj", "{C3F438C6-265D-4C31-84A8-AE4FBEEA7E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F438C6-265D-4C31-84A8-AE4FBEEA7E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F438C6-265D-4C31-84A8-AE4FBEEA7E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F438C6-265D-4C31-84A8-AE4FBEEA7E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F438C6-265D-4C31-84A8-AE4FBEEA7E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D2B5EA8-657E-4E09-94A5-84F44158D347}
+	EndGlobalSection
+EndGlobal
